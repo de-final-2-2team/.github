@@ -40,22 +40,26 @@ Microsoft가 Github를, IBM이 Red Hat을 인수하는 등 오픈 소스가 더�
 | Apache Airflow & monitoring (Python) |로컬 (Docker Compose) | Amazon EC2 (t3.2xlarge)  | 
 | Data Warehouse | Snowflake | Snowflake |
 | Data Lake | Amazon S3 | Amazon S3 | 
-| AWS Monitoring |  | Amazon CloudWatch | 
-| Dashboard | | Preset | Preset | 
+| AWS Monitoring | - | Amazon CloudWatch | 
+| Dashboard |  Preset | Preset | 
 | SCM (Software Configuration Management) | Github | Github|
-| 기타  | |  Amazon SecretManager, Amazon Lambda | 
+| 기타  | - |  Amazon SecretManager, Amazon Lambda | 
 
 ## #️⃣ 아키텍처
-![Alt text](image.png)
+![image](https://github.com/de-final-2-2team/.github/assets/63229014/2a613298-f92b-4cd3-9d43-c64aba75307d)
+
 
 ## #️⃣ 시각화 (Preset)
 1. 오픈 소스 트랜드
-![Alt text](image-1.png)
+![image](https://github.com/de-final-2-2team/.github/assets/63229014/f4a51276-af30-432a-bf22-59f428a07a25)
+
 
 2. Repository 상세
-![Alt text](image-2.png)
+![image](https://github.com/de-final-2-2team/.github/assets/63229014/e5b9759a-6c2c-42fb-84ef-1f1e1c23b830)
+
 
 
 ## 📂결과물 
-- 보고서 
-- 프로젝트 소개 (ppt)
+- [2팀-2조 최종 프로젝트 PPT.pdf](https://github.com/de-final-2-2team/.github/files/12509880/2.-2.pdf)
+
+- 
